@@ -1,0 +1,97 @@
+[INFO ] 29-11-2022 11:10:14.260 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 11:11:02.470 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 11:11:04.381 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 11:11:05.406 TC001_loginTest - entered username and password is : mngr458625and EdAtEqY
+[INFO ] 29-11-2022 11:11:06.431 TC001_loginTest - driver is closed successfully
+[INFO ] 29-11-2022 11:11:50.669 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 11:11:52.494 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 11:11:53.821 TC001_loginTest - entered username and password is : mngr458625 and EdAtEqY
+[INFO ] 29-11-2022 11:11:54.720 TC001_loginTest - driver is closed successfully
+[INFO ] 29-11-2022 11:12:22.877 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 11:12:24.827 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 11:12:26.552 TC001_loginTest - entered username and password is : mngr458625 and EdAtEqY
+[INFO ] 29-11-2022 11:12:32.226 TC001_loginTest - driver is closed successfully
+[INFO ] 29-11-2022 11:13:56.030 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 11:13:57.814 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 11:13:59.409 TC001_loginTest - entered username and password is : mngr458625 and EdAtEqY
+[INFO ] 29-11-2022 11:14:39.093 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 11:14:40.973 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 11:14:42.989 TC001_loginTest - entered username and password is : mngr458625 and EdAtEqY
+[INFO ] 29-11-2022 11:14:56.067 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 11:14:57.889 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 11:15:00.106 TC001_loginTest - entered username and password is : mngr458625 and EdAtEqY
+[INFO ] 29-11-2022 11:16:07.116 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 11:16:09.132 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 11:16:11.235 TC001_loginTest - entered username and password is : mngr458625 and EdAtEqY
+[INFO ] 29-11-2022 11:16:16.260 TC001_loginTest - application login age title 
+[INFO ] 29-11-2022 11:16:50.897 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 11:16:52.697 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 11:16:54.956 TC001_loginTest - entered username and password is : mngr458625 and EdAtEqY
+[INFO ] 29-11-2022 11:16:59.973 TC001_loginTest - application login page title is:Guru99 Bank Manager HomePage
+[INFO ] 29-11-2022 11:17:46.881 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 11:17:48.883 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 11:17:50.611 TC001_loginTest - entered username and password is : mngr458625 and EdAtEqY
+[INFO ] 29-11-2022 11:17:55.623 TC001_loginTest - application login page title is:Guru99 Bank Manager HomePage
+[INFO ] 29-11-2022 11:17:55.625 TC001_loginTest - application logged in successfully
+[INFO ] 29-11-2022 11:18:30.768 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 11:18:32.512 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 11:18:34.333 TC001_loginTest - entered username and password is : mngr458625 and EdAtEqY
+[INFO ] 29-11-2022 11:18:39.354 TC001_loginTest - application login page title is: Guru99 Bank Manager HomePage
+[INFO ] 29-11-2022 11:18:39.357 TC001_loginTest - application logged in successfully
+[INFO ] 29-11-2022 11:18:40.625 TC001_loginTest - driver is closed successfully
+[INFO ] 29-11-2022 11:22:09.136 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 11:22:10.900 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 11:22:12.864 TC001_loginTest - entered username and password is : mngr458625 and EdAtEqY
+[INFO ] 29-11-2022 11:22:17.889 TC001_loginTest - application login page title is: Guru99 Bank Manager HomePage
+[INFO ] 29-11-2022 11:22:17.892 TC001_loginTest - application logged in successfully
+[INFO ] 29-11-2022 11:22:20.256 TC001_loginTest - driver is closed successfully
+[INFO ] 29-11-2022 11:24:14.979 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 11:24:17.185 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 11:24:19.657 TC001_loginTest - entered username and password is : mngr458625 and EdAtEqY
+[INFO ] 29-11-2022 11:24:24.673 TC001_loginTest - application login page title is: Guru99 Bank Manager HomePage
+[INFO ] 29-11-2022 11:24:24.678 TC001_loginTest - application logged in successfully
+[INFO ] 29-11-2022 11:24:25.075 TC001_loginTest - Clicked on logout link
+[INFO ] 29-11-2022 11:24:31.084 TC001_loginTest - driver is closed successfully
+[INFO ] 29-11-2022 11:25:01.432 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 11:25:04.128 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 11:25:05.665 TC001_loginTest - entered username and password is : mngr458625 and EdAtEqY
+[INFO ] 29-11-2022 11:25:10.692 TC001_loginTest - application login page title is: Guru99 Bank Manager HomePage
+[INFO ] 29-11-2022 11:25:10.695 TC001_loginTest - application logged in successfully
+[INFO ] 29-11-2022 11:25:11.084 TC001_loginTest - Clicked on logout link
+[INFO ] 29-11-2022 11:25:16.094 TC001_loginTest - application successfully logged out
+[INFO ] 29-11-2022 11:25:16.986 TC001_loginTest - driver is closed successfully
+[INFO ] 29-11-2022 04:25:49.968 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 04:25:52.451 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 04:25:55.782 TC001_loginTest - entered username and password is : mngr458625 and EdAtEqY
+[INFO ] 29-11-2022 04:26:00.812 TC001_loginTest - application login page title is: Guru99 Bank Manager HomePage
+[INFO ] 29-11-2022 04:26:00.817 TC001_loginTest - application logged in successfully
+[INFO ] 29-11-2022 04:26:01.423 TC001_loginTest - Clicked on logout link
+[INFO ] 29-11-2022 04:26:06.429 TC001_loginTest - application successfully logged out
+[INFO ] 29-11-2022 04:26:07.671 TC001_loginTest - driver is closed successfully
+[INFO ] 29-11-2022 04:52:11.340 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 04:52:13.273 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 04:52:15.139 TC001_loginTest - entered username and password is : mngr458625 and EdAtEqY
+[INFO ] 29-11-2022 04:52:20.159 TC001_loginTest - application login page title is: Guru99 Bank Manager HomePage
+[INFO ] 29-11-2022 04:52:20.161 TC001_loginTest - application logged in successfully
+[INFO ] 29-11-2022 04:52:20.489 TC001_loginTest - captured scrrenshot
+[INFO ] 29-11-2022 04:52:20.826 TC001_loginTest - Clicked on logout link
+[INFO ] 29-11-2022 04:52:25.832 TC001_loginTest - application successfully logged out
+[INFO ] 29-11-2022 04:52:26.700 TC001_loginTest - driver is closed successfully
+[INFO ] 29-11-2022 04:58:58.983 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 04:59:00.724 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 04:59:02.410 TC001_loginTest - entered username and password is : mngr458625 and EdAtEqY
+[INFO ] 29-11-2022 04:59:07.428 TC001_loginTest - application login page title is: Guru99 Bank Manager HomePage
+[INFO ] 29-11-2022 04:59:07.430 TC001_loginTest - application logged in successfully
+[INFO ] 29-11-2022 04:59:07.712 TC001_loginTest - captured scrrenshot
+[INFO ] 29-11-2022 04:59:08.026 TC001_loginTest - Clicked on logout link
+[INFO ] 29-11-2022 04:59:13.034 TC001_loginTest - application successfully logged out
+[INFO ] 29-11-2022 04:59:13.851 TC001_loginTest - driver is closed successfully
+[INFO ] 29-11-2022 05:06:01.934 TC001_loginTest - driver openened successfuly
+[INFO ] 29-11-2022 05:06:03.740 TC001_loginTest - application homepage opened
+[INFO ] 29-11-2022 05:06:05.932 TC001_loginTest - entered username and password is : mngr458625 and EdAtEqY
+[INFO ] 29-11-2022 05:06:10.942 TC001_loginTest - application login page title is: Guru99 Bank Manager HomePage
+[INFO ] 29-11-2022 05:06:10.945 TC001_loginTest - application logged in successfully
+[INFO ] 29-11-2022 05:06:11.286 TC001_loginTest - captured scrrenshot
+[INFO ] 29-11-2022 05:06:11.602 TC001_loginTest - Clicked on logout link
+[INFO ] 29-11-2022 05:06:16.612 TC001_loginTest - application successfully logged out
+[INFO ] 29-11-2022 05:06:17.422 TC001_loginTest - driver is closed successfully

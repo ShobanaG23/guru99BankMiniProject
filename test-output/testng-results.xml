@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17984" started-at="2022-11-29T22:05:59Z" finished-at="2022-11-29T22:06:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17984" started-at="2022-11-29T22:05:59Z" finished-at="2022-11-29T22:06:17Z">
+      <class name="com.guru99Bank.testCases.TC001_loginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.guru99Bank.testCases.TC001_loginTest@d24612]" name="setup" is-config="true" duration-ms="4287" started-at="2022-11-29T22:05:59Z" finished-at="2022-11-29T22:06:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginTestCase()[pri:0, instance:com.guru99Bank.testCases.TC001_loginTest@d24612]" name="LoginTestCase" duration-ms="12857" started-at="2022-11-29T22:06:03Z" finished-at="2022-11-29T22:06:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestCase -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.guru99Bank.testCases.TC001_loginTest@d24612]" name="teardown" is-config="true" duration-ms="806" started-at="2022-11-29T22:06:16Z" finished-at="2022-11-29T22:06:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.guru99Bank.testCases.TC001_loginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
